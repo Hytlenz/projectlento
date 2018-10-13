@@ -13,6 +13,10 @@ import java.util.*;
    String title = " [ Solar Panel Size Calculator ] ";
    String bot = " \n[ Arthuria Senpai ] ";
    
+   /**
+    * (Square Feet = 8.4) (Rainy = 1000) (Sunny = 1200) (Sunhours = 5)
+    */
+   
    Scanner input = new Scanner (System.in);
    
        System.out.println(title + bot + " The size of Solar Panel is 17.6 Square Feet \n(65 inch x 39k inch) \nAnd its have a 265 watts");
